@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:host {
+    display: block; /* Garante que o componente seja exibido como um bloco */
+  background-color: #ecf0f5; /* Define a cor de fundo como cinza */
+  width: 100%; /* Faz o componente ocupar toda a largura da tela */
+  height: 100vh; /* Faz o componente ocupar toda a altura da tela */
+  margin: 0; /* Remove as margens */
+  padding: 0; /* Remove o preenchimento */
+}
+.mat-card{
+  padding-top:20px;
+  padding-right: 160px;
+  padding-left: 160px;
+}
+
+
+
+
+
+
+
